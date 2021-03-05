@@ -4,7 +4,7 @@ My name is Nikos Kontakis. I am full stacking - using mainly JS/TS (react/node) 
 
 - 🔭 I’m currently working on decentralised web (or web3).
 - 🌱 I’m currently learning: (or trying to lean) rust.
-- 📫 Reach me at: wirednkod 🦆 gmail ⚬ com.
+- 📫 Reach me at: wirednkod [AT] gmail ⚬ com.
 - ⚡ Fun fact: Facts are fun
 - ✨ Smile
 
