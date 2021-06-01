@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-My name is Nikos Kontakis. I am full stacking - using mainly JS/TS (react/node) - always willing to learn more.
+I am full stacking - using mainly JS/TS (react/node) - always willing to learn more.
 
 - 🔭 I’m currently working on decentralised web (or web3).
 - 🌱 I’m currently learning: (or trying to lean) rust.
 - 📫 Reach me at: wirednkod [AT] gmail [DOT] com.
 - ⚡ Fun fact: Facts are fun
-- ✨ Smile
+- 😄 Smile
 
 <!--
 **wirednkod/wirednkod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
