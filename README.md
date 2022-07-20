@@ -9,6 +9,7 @@ I am full stacking - using mainly JS/TS (react/node) - always willing to learn m
 - 😄 Smile - always smile!
 
 <!--
+
 **wirednkod/wirednkod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
