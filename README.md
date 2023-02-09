@@ -3,7 +3,7 @@
 I am full stacking - using mainly JS/TS (react/node) - always willing to learn more.
 
 - 🔭 I’m currently working on decentralised web (or web3);
-- 🌱 My software is upgrading at the moment with Rust;
+- 🌱 Upgraded...;
 - 📫 Reach me at: wirednkod [AT] gmail [DOT] com;
 - ⚡ Fun fact: Facts are fun;
 - 😄 Smile - always smile!
