@@ -1,14 +1,16 @@
 ### Hi there 👋
 
-I am full stacking - using mainly JS/TS (react/node) - always willing to learn more.
-
 - 🔭 I’m currently working on decentralised web (or web3);
+- 🦀 Upgrading my Rust skills;
 - 📫 Reach me at: wirednkod [AT] gmail [DOT] com;
-- ⚡ Fun fact: Facts are fun;
 - 😄 Smile - always smile!
 
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=wirednkod&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=wirednkod&theme=vue-dark&hide_border=true' />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width=400 src='https://github-readme-stats.vercel.app/api?username=wirednkod&theme=dracula&show_icons=true&hide_border=true&count_private=true' />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=wirednkod&theme=dracula&hide_border=true' />
+</a>
 
 <!--
 
