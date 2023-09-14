@@ -7,6 +7,9 @@ I am full stacking - using mainly JS/TS (react/node) - always willing to learn m
 - ⚡ Fun fact: Facts are fun;
 - 😄 Smile - always smile!
 
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=wirednkod&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=wirednkod&theme=vue-dark&hide_border=true' />
+
 <!--
 
 **wirednkod/wirednkod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
